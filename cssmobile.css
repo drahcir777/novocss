@@ -1,5 +1,5 @@
 .bar-header {
-    background-color: #951b81;
+    background: linear-gradient(#951b81, #17428c);
   }
   
   ion-side-menu li .item {
